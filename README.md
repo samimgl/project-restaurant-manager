@@ -5,5 +5,5 @@ O projeto foi desenvolvido durante o curso de formação técnica em Análise e 
 A aplicação trata-se de um sistema para controlar e gerenciar os pedidos de um restaurante qualquer.
 
 Através desse sistema, o usuário poderá utilizar diversas funcionalidades, como: Cadastrar um prato; Editar um prato; Excluir um prato; Anotar um pedido; E outras mais.
+#
 
----
